@@ -12,6 +12,15 @@ This Power BI project for a bike manufacturing company analyzes customers, produ
 - **DAX Measures:** Revenue, Profit, Profit after Discount, Return Rate, etc.
 - **Visualizations:** KPI cards, line/bar charts, matrix, donut, treemap and slicer.
 
+##  Tools & Technologies Used
+- **Power BI:** Data visualization, dashboard design, reporting, and data modeling.
+- **Power Query:** Data cleaning and transformation  
+- **DAX (Data Analysis Expressions):** Custom measures and KPIs  
+- **Excel / CSV Files:** Source data extraction  
+- **Power BI Service:** Report publishing and sharing
+
+
+
 ## KPIs
 
 No. Of Orders
