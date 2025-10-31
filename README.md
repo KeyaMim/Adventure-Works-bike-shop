@@ -11,6 +11,7 @@ This Power BI project for a bike manufacturing company analyzes customers, produ
 - **Data Modeling:** One-to-many relationships among tables
 - **DAX Measures:** Revenue, Profit, Profit after Discount, Return Rate, etc.
 - **Visualizations:** KPI cards, line/bar charts, matrix, donut, treemap and slicer.
+
 ## KPIs
 
 No. Of Orders
@@ -38,3 +39,11 @@ No Of Customer Who Purchased
 - **Customer Segmentation:** RFM analysis classifies customers as **Champions, Loyal, At-Risk, Potential Loyal**; segment metrics include recency, orders, and profit  
 - **Territory Analysis:** United States is the **highest profit country**, and Australia is the **highest revenue region**; territory-level metrics include revenue, profit, and return rates  
 - **Top 10 Products:** Contribute majority of total profit (summary only; full list in interactive dashboard)
+
+
+## Dashboard Features
+
+- **Overview Page:** Summary of overall business performance, including key KPIs, product insights, revenue growth over time, and forecasting.  
+- **Customer Page:** RFM-based customer segmentation and behavior analysis.  
+- **Territory Page:** Revenue, profit, and return rate by country and region.  
+- **Drillthrough Pages:** Detailed view of specific products and customers for deeper insights.
