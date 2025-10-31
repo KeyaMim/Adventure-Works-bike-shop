@@ -33,7 +33,7 @@ No Of Customer Who Purchased
 - **High-return Products:** Shorts have the highest return rate  
 - **Peak Sales Days:** July sales highest on Friday, Saturday, and Sunday  
 - **Top Customers:**  
-  Maurice Sen gives the highest revenue; he was active around 3 months ago.
+  Maurice Sen contributes the highest revenue; he was active around 3 months ago he was active around 3 months ago.
   On the other hand, Delton Pervez has the highest number of orders and is an active customer.
 - **Customer Segmentation:** RFM analysis classifies customers as **Champions, Loyal, At-Risk, Potential Loyal**; segment metrics include recency, orders, and profit  
 - **Territory Analysis:** United States is the **highest profit country**, and Australia is the **highest revenue region**; territory-level metrics include revenue, profit, and return rates  
