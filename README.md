@@ -10,4 +10,4 @@ This Power BI project for a bike manufacturing company analyzes customers, produ
 - **Calendar Table:** For time intelligence calculations
 - **Data Modeling:** One-to-many relationships among tables
 - **DAX Measures:** Revenue, Profit, Profit after Discount, Return Rate, etc.
-
+- **Visualizations:** KPI cards, line/bar charts, matrix, donut, treemap and slicer.
