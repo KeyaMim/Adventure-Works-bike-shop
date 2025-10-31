@@ -32,19 +32,19 @@ No Of Customer Who Purchased
 - **Revenue & Profit Trends:** Steady growth observed; current month revenue increased by **+3.31%** vs previous month
     
 - **Top-performing Products:** Mountain 200, Black 46, Black 42 (Revenue: 571,633 / 567,859; Return Rate: 3.0–3.5%)
--   
+    
 - **High-return Products:** Shorts have the highest return rate
-- 
+  
 - **Peak Sales Days:** July sales highest on Friday, Saturday, and Sunday
-- 
+  
 - **Top Customers:**  
   Maurice Sen contributes the highest revenue; he was active around 3 months ago he was active around 3 months ago.
   On the other hand, Delton Pervez has the highest number of orders and is an active customer.
   
 - **Customer Segmentation:** RFM analysis classifies customers as **Champions, Loyal, At-Risk, Potential Loyal**; segment metrics include recency, orders, and profit
-- 
+  
 - **Territory Analysis:** United States is the **highest profit country**, and Australia is the **highest revenue region**; territory-level metrics include revenue, profit, and return rates
-- 
+ 
 - **Top 10 Products:** Contribute majority of total profit (summary only; full list in interactive dashboard)
 
 
