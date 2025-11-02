@@ -61,7 +61,11 @@ No Of Customer Who Purchased
 - **Top Customers:**  
   Maurice Sen contributes the highest revenue; he was active around 3 months ago he was active around 3 months ago.
   On the other hand, Delton Pervez has the highest number of orders and is an active customer.
+
+  ![Screenshot 3](https://github.com/KeyaMim/Adventure-Works-bike-shop/blob/main/Screenshot_3.jpg)
   
+
+
 - **Customer Segmentation:** RFM analysis classifies customers as **Champions, Loyal, At-Risk, Potential Loyal**...segment metrics include recency, orders, and profit
   
 - **Territory Analysis:** Profit levels were highest in Australia. territory-level metrics include revenue, profit, and return rates
