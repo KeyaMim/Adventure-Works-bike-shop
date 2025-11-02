@@ -53,7 +53,7 @@ No Of Customer Who Purchased
   
 - **Customer Segmentation:** RFM analysis classifies customers as **Champions, Loyal, At-Risk, Potential Loyal**...segment metrics include recency, orders, and profit
   
-- **Territory Analysis:** United States is the **highest profit country**, and Australia is the **highest revenue region**; territory-level metrics include revenue, profit, and return rates
+- **Territory Analysis:** Profit levels were highest in Australia. territory-level metrics include revenue, profit, and return rates
  
 - **Top 10 Products:** Contribute majority of total profit (summary only; full list in interactive dashboard)
 
