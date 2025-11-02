@@ -38,7 +38,8 @@ Quantity Ordered
 No Of Customer Who Purchased
 ## Key Findings
 
-- **Revenue Trends:** January 2022 saw a revenue peak, a steady growth trend is forecast for the next six months. current month revenue increased by **+3.31%** vs previous month
+- **Revenue Trends:** In July 2022, higher sales were recorded on Mondays and Tuesdays compared to other days of the week.
+ a steady growth trend is forecast for the next six months. current month revenue increased by **+3.31%** vs previous month
     
 - **Top-performing Products:** Mountain 200, Black 46, Black 42 (Revenue: 571,633 / 567,859; Return Rate: 3.0–3.5%)
     
