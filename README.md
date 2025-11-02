@@ -47,6 +47,12 @@ No Of Customer Who Purchased
 
 
 - **Top-performing Products:** Mountain 200, Black 46, Black 42 (Revenue: 571,633 / 567,859; Return Rate: 3.0–3.5%)
+
+![Screenshot 2](https://raw.githubusercontent.com/KeyaMim/Adventure-Works-bike-shop/main/Screenshot_2.jpg)
+
+
+
+
     
 - **High-return Products:** Shorts have the highest return rate
   
