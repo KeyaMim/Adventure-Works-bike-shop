@@ -40,8 +40,12 @@ No Of Customer Who Purchased
 
 - **Revenue Trends:** In July 2022, higher sales were recorded on Mondays and Tuesdays compared to other days of the week.
  a steady growth trend is forecast for the next six months. current month revenue increased by **+3.31%** vs previous month
- https://github.com/KeyaMim/Adventure-Works-bike-shop/blob/main/Screenshot_1.jpg
+
+![Screenshot of project](https://raw.githubusercontent.com/KeyaMim/Adventure-Works-bike-shop/main/Screenshot_1.jpg)
+
     
+
+
 - **Top-performing Products:** Mountain 200, Black 46, Black 42 (Revenue: 571,633 / 567,859; Return Rate: 3.0–3.5%)
     
 - **High-return Products:** Shorts have the highest return rate
